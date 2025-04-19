@@ -1,4 +1,4 @@
-# Trust Subhas - Elderly Care App
+# Elderly Care App
 
 A comprehensive mobile application built with Expo and React Native to help manage elderly care, including medicine reminders, appointment scheduling, and relative management.
 
