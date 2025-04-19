@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "Elderly Care",
+    "slug": "elderly-care",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icons/home.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/images/auth/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icons/home.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/images/icons/home.png"
+    }
+  }
+}
