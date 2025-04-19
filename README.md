@@ -2,7 +2,8 @@
 
 A comprehensive mobile application built with Expo and React Native to help manage elderly care, including medicine reminders, appointment scheduling, and relative management.
 
-![App Screenshot](assets/images/screenshots/app-preview.png)
+![image](https://github.com/user-attachments/assets/c3f17a50-611b-4935-ab04-771fe8248b44)
+
 
 ## 🌟 Features
 
