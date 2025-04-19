@@ -1,4 +1,4 @@
-# Trust Subhas - Elderly Care App
+# Elderly Care App
 
 A comprehensive mobile application built with Expo and React Native to help manage elderly care, including medicine reminders, appointment scheduling, and relative management.
 
@@ -122,15 +122,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Expo team for the amazing framework
-- React Native community for continuous support
-- All contributors who have helped shape this project
 
 ## 📞 Contact
 
