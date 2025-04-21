@@ -2,7 +2,7 @@
 
 A comprehensive mobile application built with Expo and React Native to help manage elderly care, including medicine reminders, appointment scheduling, and relative management.
 
-![image](https://github.com/user-attachments/assets/c3f17a50-611b-4935-ab04-771fe8248b44)
+![WhatsApp Image 2025-04-21 at 18 53 39_27a0216c](https://github.com/user-attachments/assets/d05a9475-074b-4d5a-9b1f-95ac11c5e749)
 
 
 ## 🌟 Features
@@ -12,11 +12,10 @@ A comprehensive mobile application built with Expo and React Native to help mana
   - Profile management
   - User data persistence
 
-- **Medicine Management**
-  - Add and track medications
+- **Medicine Management and Remainder**
+  - Add and track medications and other daily activities
   - Set custom reminders
   - View medication history
-  - Manage medicine stock
 
 - **Appointment Scheduling**
   - Schedule medical appointments
@@ -49,7 +48,7 @@ A comprehensive mobile application built with Expo and React Native to help mana
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/trust-subhas.git
+   git clone https://github.com/yourusername/ElderlyCareReminderSystem-Carenest
    cd trust-subhas
    ```
 
@@ -70,29 +69,6 @@ A comprehensive mobile application built with Expo and React Native to help mana
    - Press `a` for Android emulator
    - Scan QR code with Expo Go app on your physical device
 
-## 📱 App Structure
-
-```
-subhs/
-├── app/
-│   ├── (app)/              # Main app screens
-│   │   ├── home/           # Home screen
-│   │   ├── medicine-reminder/  # Medicine management
-│   │   ├── appointment-reminder/ # Appointment scheduling
-│   │   └── profile/        # User profile
-│   ├── (auth)/            # Authentication screens
-│   │   ├── login.tsx      # Login screen
-│   │   └── register.tsx   # Registration screen
-│   └── loading.tsx        # Loading screen
-├── assets/                # Static assets
-│   ├── images/           # Image resources
-│   └── fonts/            # Custom fonts
-├── components/           # Reusable components
-├── contexts/            # React contexts
-├── hooks/              # Custom hooks
-├── services/           # API services
-└── utils/              # Utility functions
-```
 
 ## 🛠️ Technologies Used
 
